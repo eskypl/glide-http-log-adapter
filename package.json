@@ -1,0 +1,18 @@
+{
+  "name": "glide-http-log-adapter",
+  "version": "0.0.1",
+  "description": "JavaScript logger that logs a message to an external service via ajax http request",
+  "repository": "git@github.com:eskypl/glide-http-log-adapter.git",
+  "homepage": "https://github.com/eskypl/glide-http-log-adapter.git",
+  "bugs": "https://github.com/eskypl/glide-http-log-adapter/issues",
+  "author": "it.esky.pl",
+  "readmeFilename": "README.md",
+  "contributors": [
+    "Szymon Cofalik <szymon.cofalik@esky.pl"
+  ],
+  "keywords": [
+    "log",
+    "debug",
+    "javascript"
+  ]
+}
